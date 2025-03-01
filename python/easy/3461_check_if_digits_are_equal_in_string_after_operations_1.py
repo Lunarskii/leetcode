@@ -30,6 +30,10 @@ Example 2:
         3. After the second operation, s = "862".
         4. After the third operation, s = "48".
         5. Since '4' != '8', the output is false.
+
+Constraints:
+    1. 3 <= s.length <= 100
+    2. s consists of only digits.
 """
 from math import comb
 
